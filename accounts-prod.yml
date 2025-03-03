@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Bank accounts related prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@gmail.com"
+    email: "{cipher}0a234d5f3aa1f35806d176936452f41772ccb2a17c1a312589330f900886f1fcceb7cf6ab94f25e880ef43954e6599f7"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
