@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Bank accounts related prod APIs "
+  message: "Welcome to Bank accounts related PRO APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}0a234d5f3aa1f35806d176936452f41772ccb2a17c1a312589330f900886f1fcceb7cf6ab94f25e880ef43954e6599f7"
